@@ -1,2 +1,3 @@
 # hello-world
-try
+This is my first document on GitHub,
+I love play video games
